@@ -1,0 +1,17 @@
+Exercise Actions:
+
+1.	Use your communication tool to communicate with the firefighters and/or police on scene to understand the scene. You can try to ask personnel on site to report in on the nature of the incident and the number of casualties.
+	
+2.	Deploy some ambulances to the scene and set up the appropriate number of FAPs & Assembly points and triage locations as needed. This depends on the number of casualties and number of ambulances you can deploy from the nearest fire department.
+	
+3.	Have all medics from the ambulances automatically enter the scene and evaluate the injury levels of casualties. The casualties should be tagged with P1, P2, P3 and 0 tags. One of the medics should then report back on the casualties.
+	
+4.	The medic agents will then automatically bring in the casualties to FAPs that are not full and sort them according to injury level.
+	
+5.	Click on the first aid posts to see the list of casualties and the type of injuries they have sustained. A small indicator on the screen will tell you what the highest injury type is. This is where you will start to see which kinds of hospitals can treat what kind of injuries. Hospitals do have a limit on how many patients they can take in per hour so keep in mind that.
+	
+6.	Manage the destination of your ambulances by assigning the hospital that they will go to. Patients will be loaded into ambulances that will send them to the hospital that can treat the injuries that they sustain. Ambulances with no destination set will not have patients loaded into them.
+	
+7.	At random, another event can occur, like an accident. You, as the commander will have to manage that as well by sending the appropriate number of ambulances or reroute available ambulances to the new scene and whether or not to set up FAPs or immediately transport the casualty to the appropriate hospital.
+	
+8.	Declare the mission over when one feels that all casualties are taken care of.

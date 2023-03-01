@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fea575c4478ee34da035f0133609808, type: 3}
+  m_Name: ChestTube
+  m_EditorClassIdentifier: 
+  m_Id: 1
+  m_PrintName: Chest Tube
+  m_Sprite: {fileID: 21300000, guid: 65da5bc2ecdd1c44db461c507417fba5, type: 3}
+  m_Desc: 
+  m_IsInfinite: 0
+  m_DefaultCarry: 20
+  m_MaxCarry: 20
+  m_Effect: {fileID: 11400000, guid: db656ff35e33acf40a030347d17395c5, type: 2}
+  m_BodyPartIds: 04000000

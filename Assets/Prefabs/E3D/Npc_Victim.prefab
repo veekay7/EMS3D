@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &193727878099826046
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 193727878099826047}
+  - component: {fileID: 193727878099826044}
+  - component: {fileID: 193727878099826045}
+  m_Layer: 0
+  m_Name: Npc_Victim
+  m_TagString: Untagged
+  m_Icon: {fileID: 2800000, guid: 3809fb6b5426a6542ae885ae94b2b44a, type: 3}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &193727878099826047
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 193727878099826046}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &193727878099826044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 193727878099826046}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88d5a466041e7e34da7b821fd71880ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_State: {fileID: 193727878099826045}
+  m_PortraitSprite: {fileID: 0}
+  m_Id: -1
+  m_GivenName: unnamed
+  m_IsActive: 1
+  m_CanBePregnant: 0
+  m_IsPregnant: 0
+  m_Sex: 1
+  m_PACS: 0
+  m_Age: 0
+  m_AgeLo: 0
+  m_AgeHi: 1
+  m_AgeGroup: Unknown age group
+  m_CurHealth: 100
+  m_HealthSinceGameStart: 0
+  m_InitialHealth: 0
+  m_CanWalk: 1
+  m_StartHeartRate: 0
+  m_HeartRate: 0
+  m_StartResp: 0
+  m_Respiration: 0
+  m_StartBp:
+    Systolic: 0
+    Diastolic: 0
+  m_BloodPressure:
+    Systolic: 0
+    Diastolic: 0
+  m_StartSpO2: 0
+  m_SpO2: 0
+  m_StartGCS: 0
+  m_GCS: 0
+  m_Injury:
+    InjuryIdx: -1
+    TreatmentTags: 
+  m_CurStableTime: 0
+--- !u!114 &193727878099826045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 193727878099826046}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feaaa924304b05c4bac6fae71b6318aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IsTriaged: 0
+  m_IsTreated: 0
+  m_IsEvacuated: 0
+  m_CheckedCanWalk: 0
+  m_CheckedHeartRate: 0
+  m_CheckedRespiration: 0
+  m_CheckedBloodPressure: 0
+  m_CheckedSpO2: 0
+  m_CheckedGCS: 0
+  m_IsLoadedIntoVehicle: 0
+  m_GivenPACS: 0
+  m_AmbulanceTime: 0

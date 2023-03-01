@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fea575c4478ee34da035f0133609808, type: 3}
+  m_Name: Analgesia
+  m_EditorClassIdentifier: 
+  m_Id: 0
+  m_PrintName: Tramadol
+  m_Sprite: {fileID: 21300000, guid: 05f0c951d85aa41498b3e6db65015c2d, type: 3}
+  m_Desc: 
+  m_IsInfinite: 1
+  m_DefaultCarry: 0
+  m_MaxCarry: 0
+  m_Effect: {fileID: 11400000, guid: d2644f25cb946b14a90ca6ebc0bb3ebb, type: 2}
+  m_BodyPartIds: 0500000001000000
